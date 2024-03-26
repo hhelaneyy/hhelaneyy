@@ -1,5 +1,5 @@
 # ⭐ Hello!! I'm - Helaney
-Welcome to my developer profile.)) In any case, this is all temporary. It is so?..
+Welcome to my non-developer profile.)) In any case, this is all temporary. It is so?..
 
 ## 💫 Skulls... Wait, it's skills!
 - ✨ I know: Pascal maybe...

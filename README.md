@@ -3,7 +3,7 @@ Welcome to my non-developer profile.)) In any case, this is all temporary. It is
 
 ## 💫 Skulls... Wait, it's skills...
 - ✨ I know: 😴
-- 💫 I'm learning: HTML, Python
+- 💫 I'm learning: Python
 
 ## 🥱 About my Activity))
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hhelaneyy&theme=dark&mode=weekly&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)

@@ -11,3 +11,4 @@ Welcome to my non-developer profile.)) In any case, this is all temporary. It is
 
 ## ✨ My works or Projects!
 - [🖤 Mayson](https://discord.gg/2JdCYkGkJX)
+- [🩷 Pixel](https://discord.gg/2JdCYkGkJX)

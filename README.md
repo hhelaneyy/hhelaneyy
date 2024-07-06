@@ -2,7 +2,7 @@
 Welcome to my non-developer profile.)) In any case, this is all temporary. It is so?..
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/386439272455995394) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCiDuNNxR3MCMjLgutIwM0hQ) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/386439272455995394) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCiDuNNxR3MCMjLgutIwM0hQ) 
 
 ## 💫 Skulls... Wait, these are skills...
 - ✨ I know (partially): Python

@@ -11,23 +11,9 @@
   
   ---
   
-  ### 🔭 Current Projects
-  [![Pixel](https://img.shields.io/badge/-Project%201-blue?style=flat-square)](#)
-  [![Mayson](https://img.shields.io/badge/-Project%202-green?style=flat-square)](#)
-  [![Yoro](https://img.shields.io/badge/-Project%203-orange?style=flat-square)](#)
-  
-  ---
-  
   ### 🌱 Skills & Tools
   - **Languages:** Python, C#, etc.
   - **Tools:** VS Code, JetBrains IDE.
-  
-  ---
-  
-  ### 🎮 Fun Section: Interactive Badges
-  Click to unlock your badge!
-  
-  [![Click Me!](https://img.shields.io/badge/Unlock%20Badge-Click%20Here-brightgreen?style=for-the-badge)](https://github.com/hhelaneyy?tab=repositories)
   
   ---
   

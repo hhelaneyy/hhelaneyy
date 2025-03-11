@@ -1,7 +1,7 @@
 <div align="center">
   
   [![Telegram Badge](https://img.shields.io/badge/Telegram-hhelaneyy-blue?style=flat-square&logo=telegram)](https://t.me/hhelaneyy)
-  [![Discord Badge](https://img.shields.io/badge/Discord-.helaney-7289DA?style=flat-square&logo=discord)](https://discord.com)
+  [![Discord Badge](https://img.shields.io/badge/Discord-.helaney-7289DA?style=flat-square&logo=discord)](https://discord.gg/rVmnXYzHpF)
   
   ---
   

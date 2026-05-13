@@ -15,6 +15,6 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hhelaneyy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="./profile/stats.svg" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hhelaneyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
